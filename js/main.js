@@ -32,7 +32,7 @@ function foods(){
 
 
 
-// Darin's solution:
+// Other possible solution:
 // iterate through keys
 // if value is array, stringify
 // else print the value
